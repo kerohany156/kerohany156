@@ -2,12 +2,12 @@
 
 # Hi, I'm Kerolos 👋
 
-### Computer Science Student | Aspiring Cybersecurity Enthusiast | AI Explorer
+### Computer Science Student | Cybersecurity Enthusiast | AI Explorer
 
 <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="120" />
 
 <p>
-  I build, learn, and break things to understand them better.
+  I build, learn, and explore technology step by step.
 </p>
 
 </div>
@@ -16,12 +16,24 @@
 
 ## About Me
 
-- 🎓 I'm a Computer Science student
+- 🎓 Computer Science student
 - 🔐 Interested in **Cybersecurity**
 - 🤖 Exploring **Artificial Intelligence**
-- 💻 I enjoy building projects and improving my coding skills
-- 🌱 Currently focused on learning and growing step by step
-- 📚 I also like learning English to help me in tech and professional life
+- 🧠 Skilled in **AI Prompt Engineering**
+- 🌐 Basic experience in building websites using **AI tools**
+- 📚 Improving my English for professional communication
+- 💻 I enjoy learning by building real projects
+
+---
+
+## Certifications
+
+- 📜 **AI for Beginners – HP LIFE**  
+  → Covered AI concepts, data importance, business applications, and ethics 0  
+
+- 📜 **Generative AI Tools Training** 1  
+
+- 📜 **System Analysis using AI** 2  
 
 ---
 
@@ -47,5 +59,5 @@
 while (learning) {
     improve_skills();
     build_projects();
-    stay_consistent();
+    explore_security();
 }
